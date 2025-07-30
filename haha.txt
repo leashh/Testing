@@ -1,0 +1,1000 @@
+213  clear
+  214  cd Desktop
+  215  cd Zowy
+  216  cd Desktop
+  217  cd Zowy
+  218  code .
+  219  exit
+  220  git add .
+  221  git commit -m "add a header"
+  222  git push
+  223  git clone https://github.com/archaeusxd/janelle.git
+  224  https://github.com/archaeusxd/janelle.git
+  225  cd janelle
+  226  code .
+  227  git clone https://github.com/archaeusxd/JAWY.git
+  228  cd JAWY
+  229  code .
+  230  git add .
+  231  git commit -m "added h3"
+  232  git push
+  233  git clone
+  234  cd Desktop
+  235  cd Kalea
+  236  code .
+  237  cd Janelle
+  238  clear
+  239  cd ..
+  240  cd Janelle
+  241  cd JAWY
+  242  cd Kalea
+  243  code .
+  244  clear
+  245  cd Desktop
+  246  cd Zowy
+  247  cd JAWY
+  248  cd Janelle
+  249  cd janelle
+  250  cd Zowy Zowy
+  251  Cd Zowy
+  252  cd Zowy
+  253  cd Janelle
+  254  cd janelle
+  255  cd JAWY
+  256  code .
+  257  exit
+  258  git checkout -b
+  259  git checkout -b alpha
+  260  git fetch origin
+  261  git push
+  262  git push --set-upstream origin alpha
+  263  git branch --all or git branch
+  264  git pull
+  265  git branch
+  266  git pull
+  267  git checkout dev
+  268  git branch
+  269  git checkout alpha
+  270  git pull
+  271  git checkout dev
+  272  git add .
+  273  git add main.html
+  274  git commit -m "Jonelle"
+  275  git push
+  276  clear
+  277  cd Desktop
+  278  cd Kalea
+  279  mkdir
+  280  mkdir LEZO
+  281  cd LEZO
+  282  code .
+  283  exit
+  284  mkdir Zowy
+  285  rm -rfv Zowy
+  286  lsof
+  287  mkdir Lea
+  288  ls
+  289  cd desktop
+  290  cd Desktop
+  291  clear
+  292  exit
+  293  cd Desktop
+  294  mkdir Lea
+  295  touch Lea.txt
+  296  nano lea.txt
+  297  cat lea.txt
+  298  ls
+  299  git init
+  300  git remote add origin https://github.com/leashh/LEZO.git
+  301  git branch -M main
+  302  git push -u origin main
+  303  git add .
+  304  git commit -m "first commit"
+  305  git push
+  306  git push -u origin main
+  307  git pull
+  308  git checkout -b alpha
+  309  git clone https://github.com/archaeusxd/JAWY.git
+  310  git pull
+  311  cd Kalea
+  312  code .
+  313  cd Desktop
+  314  mkdir Lea
+  315  cd Lea
+  316  touch Lea.txt
+  317  ls
+  318  nano sample.txt
+  319  cat sample.txt
+  320  mkdir Kale
+  321  cd Kale
+  322  ls 
+  323  ls Kale
+  324  pwd
+  325  cp Lea.txt
+  326  ls Lea.txt
+  327  ls Kale
+  328  mkdir Kale
+  329  ls Kale
+  330  cp Lea.txt Kale
+  331  cp sample.txt Kale
+  332  cp Kalea.txt Kale
+  333  ls
+  334  touch Kale.txt
+  335  ls
+  336  nano sample.txt
+  337  nano Kale.txt
+  338  cat Kale.txt
+  339  ls
+  340  cat sample.txt
+  341  pwd
+  342  cd ..
+  343  pwd
+  344  ls
+  345  cd Kale/
+  346  cd ..
+  347  cat sample.txt
+  348  rm sample.txt
+  349  ls
+  350  cat Lea.txt
+  351  nano Lea.txt
+  352  cat Lea.txt
+  353  cd Kale
+  354  ls
+  355  mv Kale.txt Lea
+  356  ls
+  357  pwd
+  358  mv Kale.txt  /home/kalea-zowy/Desktop/Lea
+  359  mv Kale.txt /home/kalea-zowy/Desktop/Lea
+  360  mv Lea /home/kalea-zowy/Desktop/Lea
+  361  ls
+  362  cd ..
+  363  ls
+  364  cp Lea.txt Lea2
+  365  ls
+  366  rmdir Lea2
+  367  cat Lea.txt
+  368  cd Kale
+  369  ls
+  370  touch Kale2.txt
+  371  ls
+  372  nano Kale2.txt
+  373  cat Nano2.txt
+  374  cat Kale2.txt
+  375  pwd
+  376  cd ..
+  377  cd Kale
+  378  mv Kale2.txt Kale
+  379  ls
+  380  rm -rfv sample.txt
+  381  rm -rfv Kale
+  382  cd ..
+  383  rm -rfv Kale
+  384  cd ..
+  385  rm -rfv Lea
+  386  cd Kalea
+  387  cd JAWY
+  388  mkdir JAWY
+  389  cd JAWY
+  390  code JAWY
+  391  code .
+  392  cd Desktop
+  393  cd Kalea
+  394  rm -rfv test
+  395  git clone https://github.com/archaeusxd/JAWY.git
+  396  git pull
+  397  cd Desktop
+  398  mkdir Lea
+  399  ls
+  400  mkdir Kale
+  401  ls
+  402  cd Kale
+  403  ls
+  404  touch kale.txt
+  405  nano kale.txt
+  406  cat kale.txt
+  407  ls
+  408  touch kale2.txt
+  409  nano kale2.txt
+  410  cat kale2.txt
+  411  ls
+  412  pwd
+  413  cd ..
+  414  mkdir lea
+  415  ls
+  416  rm -rfv Lea
+  417  ls
+  418  rm -rfv sandbaox
+  419  rm -rfv sandbox
+  420  ls
+  421  cd lea
+  422  ls
+  423  touch lea.txt
+  424  nano lea.txt
+  425  cat lea.txt
+  426  touch lea2.txt
+  427  nano lea2.txt
+  428  cat lea2.txt
+  429  ls
+  430  cp kale2.txt
+  431  Kale cp kale.txt 
+  432  cp Kale kale.txt 
+  433  cp lea lea.txt
+  434  cp lea.txt
+  435  cp Kale kale.txt
+  436  cp kale.txt lea
+  437  cp lea.txt lea
+  438  ls
+  439  pwd
+  440  cp /home/kalea-zowy/Desktop/lea
+  441  /home/kalea-zowy/Desktop/lea
+  442  ls
+  443  rm -rvf lea
+  444  ls
+  445  cp lea.txt lea. txt
+  446  cp lea.txt lea.txt
+  447  cp lea.text kale.txt
+  448  cp lea.txt kale.txt
+  449  ls
+  450  pwd
+  451  cd ..
+  452  cd Kale
+  453  cp kale.txt lea.txt
+  454  ls
+  455  cd kale.txt
+  456  cd lea kale.txt
+  457  cd lea
+  458  cd ..
+  459  cd lea
+  460  cd Kale lea.txt
+  461  cd ..
+  462  cd Kale
+  463  mv kale.txt
+  464  mv lea kale.txt
+  465  mv kale.txt kale2.txt
+  466  ls
+  467  cd ..
+  468  cd lea
+  469  ls
+  470  rm -rfv kale.txt
+  471  ls
+  472  rm Kale
+  473  rm -rfv Kale
+  474  cd ..
+  475  rm -rf Kale
+  476  exit
+  477  cd team alpha
+  478  cd team-alpha
+  479  git add kalea.html
+  480  git commit -m "kalea"
+  481  git push
+  482  git push --set-upstream origin main
+  483  git pull
+  484  git push
+  485  git status
+  486  git push
+  487  git push --help
+  488  git clone https://github.com/kyency/team-alpha.git
+  489  git pull
+  490  git add .
+  491  git commit -m "title h1"
+  492  git push
+  493  git pull
+  494  cd team-alpha
+  495  git add .
+  496  git commit -m "title h1"
+  497  git push
+  498  cd alpha
+  499  git pull
+  500  git add .
+  501  git add TEAM ALPHA'SSSSSSSSSSSSS
+  502  ''
+  503  ""
+  504  git status
+  505  git fetch origin 
+  506  git push
+  507  git push --set-upstream origin alpha
+  508  git branch
+  509  git pull
+  510  git checkout
+  511  git checkout alpha
+  512  git branch
+  513  git checkout dev
+  514  git branch --all
+  515  git checkout alpha
+  516  git add .
+  517  git commit -m "1111111111"
+  518  git push
+  519  git add
+  520  git add .
+  521  git commit -m "1111111111"
+  522  git push
+  523  git checkout dev
+  524  git checkout -b
+  525  git pull
+  526  git add
+  527  git add .
+  528  git commit -m "css"
+  529  git push
+  530  git checkout alpha
+  531  git checkout dev
+  532  git pull
+  533  git checkout dev
+  534  git checkout alpha
+  535  git pull
+  536  git branch
+  537  git checkout alpha
+  538  git pull
+  539  checkout dev
+  540  git checkout dev
+  541  git checkout alpha
+  542  cd team-alpha
+  543  git pull
+  544  git push
+  545  git add kalea.html
+  546  git commit -m "ara"
+  547  git push
+  548  git pull
+  549  git push
+  550  git status
+  551  git branch
+  552  git pull
+  553  git config pull.rebase false
+  554  git pull
+  555  git push
+  556  git pull
+  557  git checkout -b kaleabranch
+  558  git fetch origin
+  559  git push
+  560  git push --set-upstream origin kaleabranch
+  561  git branch
+  562  git pull
+  563  git branch -r
+  564  git checkout araBranch
+  565  git pull
+  566  git branch
+  567  git checkout nelled
+  568  git branch
+  569  git checkout nics
+  570  git branch
+  571  git branch -r
+  572  git add kalea.hmtl
+  573  git add kalea.html
+  574  git commit -m "juf"
+  575  git push
+  576  git branch
+  577  git checkout kaleabranch
+  578  git add kalea.html
+  579  git commit -m "jus"
+  580  git add kalea.html
+  581  git commit -m 
+  582  git commit -m "jus"
+  583  git push
+  584  git pull
+  585  git branch
+  586  git pull
+  587  git branch
+  588  git branch -r
+  589  git checkout ebranch
+  590  git pull
+  591  git status
+  592  git checkout kaleabranch
+  593  git checkout cybranch
+  594  git pull
+  595  git add
+  596  git add GENERAL-CONVO
+  597  git commit -m "gen"
+  598  git push
+  599  git pull
+  600  git checkout kaleabranch
+  601  git checkout cybranch
+  602  git pull
+  603  git fetch origin
+  604  git pull
+  605  git add GENERAL-CONVO
+  606  git commit -m "genc"
+  607  git add GENERAL-CONVO
+  608  git commit -m "genc"
+  609  git push
+  610  git pull
+  611  git chechout cybranch
+  612  git checkout cybranch
+  613  git pull
+  614  git add GENERAL-CONVO
+  615  git commit -m "genc"
+  616  git checkout ebranch
+  617  git add eka.html
+  618  git commit -m "gm"
+  619  git push
+  620  git branch
+  621  git checkout main
+  622  git pull
+  623  git status
+  624  git pull
+  625  git add GENERAL-CONVO
+  626  git commit -m "cy"
+  627  git pusj
+  628  git push
+  629  git pull
+  630  git add GENERAL-CONVO
+  631  git commit -m "cy"
+  632  git add GENERAL-CONVO
+  633  git commit -m "c"
+  634  git push
+  635  git pull
+  636  git add GENERAL-CONVO
+  637  git commit -m "c"
+  638  git commit -m "sy"
+  639  git add GENERAL-CONVO
+  640  git commit -m "sy"
+  641  git push
+  642  git pull
+  643  git add GENERAL-CONVO
+  644  git commit -m "hehe"
+  645  git push
+  646  git fetch origin
+  647  git push
+  648  git fetch origin
+  649  git checkout main
+  650  git fetch origin main
+  651  git pull
+  652  git push
+  653  git pull
+  654  git add GENERAL-CONVO
+  655  git commit -m "hr"
+  656  git push
+  657  git pull
+  658  git push
+  659  git pull
+  660  git add kalea.html
+  661  cd team-alpha/
+  662  git add kalea.html
+  663  git commit -m "kalea baliw"
+  664  git push
+  665  git pull 
+  666  git push
+  667  git pull 
+  668  git add kalea.html
+  669  git commit -m "kalea baliw"
+  670  git rm GENERAL-CONVO
+  671  git push
+  672  git pull
+  673  git status
+  674  git pull
+  675  git add GENERAL-CONVO
+  676  git add . 
+  677  git commit -m "deleted general convo"
+  678  git push
+  679  git push --help
+  680  git checkout main
+  681  git pull
+  682  cd Desktop
+  683  cd Kalea
+  684  code .
+  685  cd team alpha
+  686  cd Kalea
+  687  cd ..
+  688  cd Kalea
+  689  mkdir team alpha
+  690  cd team alpha
+  691  code .
+  692  cd team-alpha/
+  693  code .
+  694  git branch
+  695  git checkout ebranch
+  696  git add GENERAL-CONVO
+  697  git merge --continue
+  698  git merge --abort
+  699  git reset --hard
+  700  git pull
+  701  git checkout kaleabranch
+  702  git pull
+  703  git checkout Nelled
+  704  git checkout janelle
+  705  git checkout janellebranch
+  706  git branch
+  707  git checkout nelled
+  708  git add janelle.html
+  709  git commit -m "alam"
+  710  git push
+  711  git fetch origin
+  712  git checkout kaleabranch
+  713  git pull
+  714  git checkout main
+  715  git pull
+  716  git add janelle,html
+  717  git add janelle.html
+  718  git commit -m "play"
+  719  git push
+  720  git checkout nelled
+  721  git add janelle.html
+  722  git commit -m "kk"
+  723  git push
+  724  exit
+  725  cd ..
+  726  cd document
+  727  cd Document
+  728  clear
+  729  cd ..
+  730  cd Document
+  731  cd zowy
+  732  nano zowy.txt
+  733  cat zowy.txt
+  734  nano zowy2.txt
+  735  cat zowy2.txt
+  736  ls
+  737  rm -rf zowy (2)
+  738  rm -rf zowy 
+  739  ls
+  740  cd zowy
+  741  mkdir zowy
+  742  cd zowy
+  743  touch zowy
+  744  zip -r zowy.zip zowy
+  745  unzip zowy.zip
+  746  zip -e zowy.zip zowy
+  747  exit
+  748  ls
+  749  cd zowy
+  750  ls
+  751  exit
+  752  ls
+  753  cd Desktop
+  754  mkdir Janelle
+  755  cd Janelle
+  756  touch hello.txt
+  757  nano hello.txt
+  758  ls
+  759  exit
+  760  sudo apt update
+  761  sudo apt install openssh-client openssh-server
+  762  sudo systemctl status ssh
+  763  sudo systemctl enable ssh
+  764  sudo systemctl status ssh
+  765  sudo systemctl start ssh
+  766  sudo systemctl status ssh
+  767  ssh user@remote_server_ip
+  768  whoami
+  769  ssh kalea-zowy@remote_server_ip
+  770  kalea-zowy ip a
+  771  ip a
+  772  ip addr
+  773  whoami
+  774  sudo systemctl status ssh
+  775  ssh janelle@192.168.20.185
+  776  yes
+  777  ssh janelle@192.168.20.185
+  778  ssh janelle@192.168.20.28
+  779  ssh maria-johanna@192.168.20.28
+  780  ssh maria-johanna@192.168.20.196
+  781  Desktop
+  782  cd Desktop
+  783  rm -rf Janelle
+  784  ls
+  785  exit
+  786  cd desktop
+  787  cd Desktop
+  788  cd Kalea
+  789  ls
+  790  cs test
+  791  cd test
+  792  ls
+  793  cd testing
+  794  cd Testing
+  795  ls
+  796  cd ..
+  797  cd lea
+  798  ls
+  799  mkdir kale
+  800  cd kale
+  801  touch kale.txt
+  802  nano kale.txt
+  803  cat kale.txt
+  804  mv kale.txt lea.txt
+  805  cd ..
+  806  ls
+  807  cd ..
+  808  cd kale
+  809  cd lea
+  810  cd kale
+  811  pwd
+  812  cd ..
+  813  /home/kalea-zowy/Desktop/lea/kale
+  814  mv /home/kalea-zowy/Desktop/lea/kale
+  815  mv kale.txt /home/kalea-zowy/Desktop/lea/kale
+  816  cd ..
+  817  mv kale.txt /home/kalea-zowy/Desktop/lea/kale
+  818  mv lea.txt /home/kalea-zowy/Desktop/lea
+  819  ls
+  820  cd
+  821  cd zowy
+  822  ls
+  823  cat zowy2.txt
+  824  clear
+  825  exit
+  826  cd Desktop
+  827  ssh ericamallari@192.168.20.15
+  828  cd Desktop
+  829  cd lea
+  830  ls
+  831  cd lea
+  832  cd kale
+  833  ls
+  834  rm -rfv lea
+  835  ls
+  836  cd ..
+  837  ls
+  838  rm -rfv kale
+  839  cd kale
+  840  cd ..
+  841  cd kale
+  842  mkdir kale
+  843  cd kale
+  844  ls
+  845  touch kale.txt
+  846  nano kale.txt
+  847  ls
+  848  touch kale2.txt
+  849  nano kale2.txt
+  850  ls
+  851  cat kale,txt
+  852  cat kale.txt
+  853  cat kale2.txt
+  854  mv lea.txt lea
+  855  cd ..
+  856  cd lea
+  857  pwd
+  858  cd ..
+  859  cd kale
+  860  mv lea.txt /home/kalea-zowy/Desktop/lea
+  861  exit
+  862  cd Desktop
+  863  cd kale
+  864  ls
+  865  cd lea.txt kale
+  866  cd lea.txt lea
+  867  cd kale.txt kale
+  868  mv lea.txt kale
+  869  mv kale lea.txt
+  870  mv lea kale.yxy
+  871  ls
+  872  cd Desktop
+  873  cd kale
+  874  ls
+  875  mv kale.txt lea
+  876  cd ..
+  877  cd lea
+  878  ls
+  879  cd ..
+  880  cd kale
+  881  ls
+  882  cd ..
+  883  cd lea
+  884  pwd
+  885  cd ..
+  886  cd kale
+  887  mv /home/kalea-zowy/Desktop/lea kale.txt
+  888  cd ..
+  889  cd lea
+  890  cd kale
+  891  ls
+  892  rm -rfv lea
+  893  cd ..
+  894  cd lea
+  895  cd ..
+  896  cd desktop
+  897  ssh arabella@192.168.20.15
+  898  ssh arabella@192.168.20.16
+  899  exit
+  900  cd Desktop
+  901  cd kale
+  902  ls
+  903  cd ..
+  904  cd lea
+  905  mkdir kea
+  906  rmdir kea
+  907  cd lea
+  908  cd kea
+  909  mkdir lea
+  910  cd lea
+  911  ls
+  912  touch lea.txt
+  913  nano lea.txt
+  914  cat lea.txt
+  915  ls
+  916  cd ..
+  917  sckale
+  918  cd kale
+  919  ls
+  920  cp kale.txt lea
+  921  cd lea.txt kale
+  922  cp lea.txt kale
+  923  sudo systemctl suspend
+  924  ip a
+  925  ssh arabella@remote_host
+  926  ssh arabella@192.168.20.16
+  927  ssh maria-johanna@192.168.20.185
+  928  ssh maria-johanna@192.168.20.196
+  929  ssh ericalyn@192.168.20.185
+  930  ssh ericamallari@192.168.20.15
+  931  ssh nicole@192.168.20.17
+  932  ssh ericamallari@192.168.20.15
+  933  ssh janelle@192.168.20.185
+  934  ssh maria-johanna@192.168.20.196
+  935  sudo passwd root root@kalea-zowy:~# sudo passwd root 
+  936  exit
+  937  ssh ericamallari@192.168.20.15
+  938  passwd
+  939  .paaws
+  940  passwd
+  941  cd lea
+  942  cd Desktop
+  943  cd lea
+  944  ls
+  945  touch lea2.txt
+  946  cd ..
+  947  cd kale
+  948  ls
+  949  mv lea.txt kale
+  950  cd ..
+  951  mv lea.txt kale
+  952  cd lea
+  953  mv lea.txt kale
+  954  ls
+  955  cd ..
+  956  cd kale
+  957  pwd
+  958  cd ..
+  959  mv kale /home/kalea-zowy/Desktop/kale 
+  960  mv lea2.txt /home/kalea-zowy/Desktop/kale
+  961  cd ..
+  962  cd lea
+  963  cd Desktop
+  964  cd lea
+  965  mv kale /home/kalea-zowy/Desktop/kale
+  966  ls
+  967  cd ..
+  968  cd kale
+  969  ls
+  970  cd ..
+  971  cd lea
+  972  pwd
+  973  cd ..
+  974  cd kale
+  975  mv kale.txt /home/kalea-zowy/Desktop/lea
+  976  ls
+  977  cd ..
+  978  cd lea
+  979  ls
+  980  cp lea.txt lea2.txt
+  981  cp lea2.txt lea.txt
+  982  ls
+  983  ssh maria-johanna@192.168.20.196
+  984  pwd
+  985  cd kale
+  986  cd Desktop
+  987  pwd
+  988  cd ..
+  989  ls
+  990  cd home
+  991  ls
+  992  cd Kalea
+  993  cd kale
+  994  cd Kalea
+  995  cd kalea-zowy
+  996  pwd
+  997  ls
+  998  scp kalea janelle@192.168.20.185:/home/janelle
+  999  scp -r kalea janelle@192.168.20.185:/home/janelle
+ 1000  ls
+ 1001  scp lea3.txt  janelle@192.168.20.185:/home/janelle
+ 1002  pwd
+ 1003  cd Kalea
+ 1004  cd ..
+ 1005  cd Desktop
+ 1006  cd ..
+ 1007  ssh janelle@192.168.20.185
+ 1008  ssh arabella@192.168.20.16
+ 1009  cd kalea-zowy
+ 1010  ls
+ 1011  pwd
+ 1012  ls
+ 1013  cd Downloads
+ 1014  ls
+ 1015  cd .. 
+ 1016  pwd
+ 1017  exit
+ 1018  cd ..
+ 1019  cd Descktop
+ 1020  cd Desktop
+ 1021  cd kalea-zowy
+ 1022  cd Desktop
+ 1023  cd Downloads
+ 1024  ls
+ 1025  cd Home
+ 1026  cd Kalea
+ 1027  sudo apt install virtualbox
+ 1028  ls
+ 1029  sudo apt update
+ 1030  sudo apt install apache2
+ 1031  sudo mkdir -p /var/www/example.com/public.html
+ 1032  sudo mkdir -p /var/www/example.com/public_html
+ 1033  sudo chown -R $USER:$USER /var/www/example.com/public_html
+ 1034  sudo chmod -R 755 /var/www
+ 1035  echo "
+ 1036   <html>
+ 1037    <body>
+ 1038    </body>
+ 1039   </html>" > /var/www/example.com/public_html/index.html
+ 1040  echo "
+ 1041   <html>
+ 1042    <body>
+ 1043    </body>
+ 1044   </html>" > /var/www/example.com/public_html/index.html
+ 1045  cd /var/www/
+ 1046  echo "
+ 1047   <html>
+ 1048    <body>
+ 1049    </body>
+ 1050   </html>" > /var/www/example.com/public_html/index.html
+ 1051  sudo nano /etc/apache2/sites-available/example.com.conf
+ 1052  sudo a2ensite example.com.conf
+ 1053  systemctl reload apache2
+ 1054  sudo systemctl restart apache2
+ 1055  sudo nano /etc/hosts
+ 1056  sudo systemctl restart apache2
+ 1057  sudo nano /etc/hosts
+ 1058  sudo nano /etc/apache2/sites-available/example.com.conf
+ 1059  sudo nano /etc/hosts
+ 1060  sudo systemctl enable apache2
+ 1061  sudo systemctl restart apache2
+ 1062  sudo nano /etc/hosts
+ 1063  cd
+ 1064  sudo systemctl enable apache2
+ 1065  cd /var/www
+ 1066  sudo systemctl restart apache2
+ 1067  ls
+ 1068  sudo nano /etc/hosts
+ 1069  sudo systemctl restart apache2
+ 1070  ls
+ 1071  cd example.com
+ 1072  ls
+ 1073  cd public.html
+ 1074  ls
+ 1075  cd ..
+ 1076  cd public_html
+ 1077  ls
+ 1078  nano index.html
+ 1079  sudo systemctl restart apache2
+ 1080  sudo nano /etc/apache2/sites-available/example.com.conf
+ 1081  sudo a2ensite example.com.conf
+ 1082  sudo systemctl restart apache2
+ 1083  sudo nano /etc/hosts
+ 1084  code /var/www/example.com/public_html
+ 1085  cd
+ 1086  ls
+ 1087  cd Desktop
+ 1088  ls
+ 1089  cd www/example.com/public.html$
+ 1090  cd www
+ 1091  cd /var/www
+ 1092  cd public_html
+ 1093  cd example.com
+ 1094  cd public_html
+ 1095  ls
+ 1096  cd /var/www
+ 1097  ls
+ 1098  cd kalea.com
+ 1099  ls
+ 1100  cd public_html/
+ 1101  ls
+ 1102  sudo /etc/apache2/site-available
+ 1103  cd
+ 1104  sudo /etc/apache2/site-available
+ 1105  sudo
+ 1106  cd /etc/apache2/site-available
+ 1107  sudo nano /etc/apache2/site-available/kalea.com.conf
+ 1108  cd /var/www
+ 1109  ls
+ 1110  cd kalea.com/
+ 1111  ls
+ 1112  cd public_html/
+ 1113  cd /etc/apache2/site-available
+ 1114  cd
+ 1115  exit
+ 1116  sudo mkdir -p /var/www/zowy.com/html
+ 1117  sudo nano /var/www/example.com/html/index.html
+ 1118  ls
+ 1119  cd /var/www/
+ 1120  cd zowy.com
+ 1121  sudo nano /var/www/zowy.com/html/index.html
+ 1122  sudo nano /etc/nginx/sites-available/zowy.com
+ 1123  sudo ln -s /etc/nginx/sites-available/zowy.com /etc/nginx/sites-enabled/
+ 1124  sudo nginx -t
+ 1125  sudo systemctl reload nginx
+ 1126  sudo systemctl start
+ 1127  sudo systemctl start nginx
+ 1128  ls -l /etc/nginx/sites-enabled/nico
+ 1129  ls -l /etc/nginx/sites-enabled/zowy.com
+ 1130  sudo nginx -t
+ 1131  sudo systemctl status nginx 
+ 1132  sudo systemctl start nginx 
+ 1133  sudo systemctl status nginx.service
+ 1134  cd
+ 1135  sudo systemctl status
+ 1136  sudo systemctl status apache2
+ 1137  sudo systemctl stop apache2
+ 1138  sudo systemctl disable apache2
+ 1139  sudo systemctl status apache2
+ 1140  sudo systemctl disable apache2
+ 1141  sudo systemctl status apache2
+ 1142  sudo systemctl status nginx
+ 1143  sudo systemctl start nginx
+ 1144  sudo systemctl status nginx
+ 1145  cd /var/www
+ 1146  cd zowy.html
+ 1147  cd zowy.com
+ 1148  sudo nginx -t
+ 1149  sudo systemctl reload nginx
+ 1150  sudo nano /etc/hosts
+ 1151  sudo nano /etc/nginx/sites-available/example.com
+ 1152  sudo systemctl reload nginx
+ 1153  sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/
+ 1154  sudo nano /etc/nginx/sites-available/example.com
+ 1155  sudo nano /etc/nginx/sites-available/zowy.com
+ 1156  ls
+ 1157  sudo ln -s /etc/nginx/sites-available/zowy.com /etc/nginx/sites-enabled/
+ 1158  sudo nano /etc/nginx/sites-available/zowy.com
+ 1159  sudo nano /etc/hosts
+ 1160  sudo systemctl reload nginx
+ 1161  sudo nginx -t
+ 1162  sudo ln -s /etc/nginx/sites-available/zowy.com /etc/nginx/sites-enabled/
+ 1163  sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/
+ 1164  kls
+ 1165  ls
+ 1166  cd html
+ 1167  ls
+ 1168  sudo systemctl reload nginx
+ 1169  sudo systemctl status nginx.service
+ 1170  sudo journalctl -xeu nginx.service
+ 1171  sudo nginx -t
+ 1172  cd ..
+ 1173  sudo systemctl status nginx.service
+ 1174  sudo nginx -t
+ 1175  sudo nano /etc/nginx/sites-available/zowy.com
+ 1176  sudo systemctl reload nginx
+ 1177  sudo nginx -t
+ 1178  ls
+ 1179  cd ..
+ 1180  lz
+ 1181  ls
+ 1182  cd zowy.com
+ 1183  sudo nano /etc/nginx/sites-available/example.com
+ 1184  sudo nginx -t
+ 1185  sudo systemctl reload nginx
+ 1186  code /var/www/zowy.com/index.html
+ 1187  code /var/www/zowy.com/html/index.html
+ 1188  mysql -u root -p
+ 1189  sudo mysql -u root -p
+ 1190  cd wordpress
+ 1191  wp-config.php
+ 1192  ls
+ 1193  /etc/apache2/sites-available/000-default.conf
+ 1194  cd ..
+ 1195  /etc/apache2/sites-available/000-default.conf:
+ 1196  sudo /etc/apache2/sites-available/000-default.conf:
+ 1197  sudo systemctl restart apache2
+ 1198  sudo mysql -u root -p
+ 1199  sudo nano kalea.com
+ 1200  /var/www/html/wordpress/wp-config.php
+ 1201  sudo nano /var/www/wordpress/wp-config.php
+ 1202  sudo systemctl status apache2
+ 1203  /var/www/html/wordpress/wp-config.php
+ 1204  sudo systemctl start apache2
+ 1205  mysql -u lawy -p
+ 1206  sudo mysql -u root -p
+ 1207  sudo systemctl restart apache2
+ 1208  sudo systemctl restart mysql
+ 1209  mysql -u lawy -p -e "SHOW DATABASES;"
+ 1210  sudo cat /var/www/html/wordpress/wp-config.php | grep DB_
+ 1211  sudo nano /var/www/html/wordpress/wp-config.php
+ 1212  history

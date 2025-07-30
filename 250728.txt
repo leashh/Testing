@@ -1,0 +1,210 @@
+1244  sudo apt update
+ 1245  sudo apt install mariadb-server -y
+ 1246  sudo systemctl start mariadb
+ 1247  sudo systemctl status mariadb
+ 1248  sudo systemctl enable mariadb
+ 1249  sudo mysql_secure_installation
+ 1250  sudo mariadb -u root -p
+ 1251  sudo apt update
+ 1252  sudo apt install php
+ 1253  sudo apt install php8.3
+ 1254  php -v
+ 1255  sudo apt install php8.3-mysql
+ 1256  sudo apt update
+ 1257  sudo apt install apache2 mysql-server php php-mysql libapache2-mod-php php-cli php-curl php-gd php-mbstring php-xml php-xmlrpc php-soap php-intl php-zip unzip -y
+ 1258  sudo mysql
+ 1259  cd /var/run/mysql/mysqld.sock
+ 1260  sudo systemctl stop nginx
+ 1261  sudo systemctl disable nginx
+ 1262  sudo systemctl status nginx
+ 1263  sudo systemctl start apache2
+ 1264  sudo systemctl enable apache2
+ 1265  sudo systemctl status apache2
+ 1266  sudo mysql
+ 1267  sudo apt list --installed | grep mysql-server
+ 1268  sudo apt update
+ 1269  sudo apt install mysql-server -y
+ 1270  sudo systemctl status mysql
+ 1271  sudo systemctl start mysql
+ 1272  sudo systemctl enable mysql
+ 1273  sudo systemctl status mysql
+ 1274  sudo systemctl restart mysql
+ 1275  sudo journalctl -xeu mysql
+ 1276  sudo cat /var/log/mysql/error.log
+ 1277  sudo cat /var/log/mysql/mysql.log
+ 1278  sudo cat /var/log/mysql/mysql-error.log
+ 1279  sudo journalctl -xeu mysql.service --no-pager
+ 1280  sudo mysqld
+ 1281  sudo mkdir -p /var/lib/mysql-files
+ 1282  sudo chown mysql:mysql /var/lib/mysql-files
+ 1283  sudo chmod 750 /var/lib/mysql-files
+ 1284  sudo systemctl start mysql
+ 1285  systemctl status mysql.service
+ 1286  ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=1/FAILURE)
+ 1287  sudo /usr/share/mysql/mysql-systemd-start pre
+ 1288  sudo rm /etc/mysql/FROZEN
+ 1289  cat /etc/mysql/FROZEN
+ 1290  sudo systemctl start mysql
+ 1291  sudo systemctl stop mysql
+ 1292  sudo apt purge mysql-server mysql-common mysql-client -y
+ 1293  sudo apt autoremove --purge -y
+ 1294  sudo rm -rf /etc/mysql /var/lib/mysql /var/run/mysqld /var/log/mysql
+ 1295  ls /etc/mysql /var/lib/mysql /var/run/mysqld
+ 1296  sudo apt update
+ 1297  sudo apt install mysql-server -y
+ 1298  sudo systemctl start mysql
+ 1299  sudo systemctl status mysql
+ 1300  sudo apt install php libapache2-mod-php php-mysql
+ 1301  sudo nano /etc/apache2/sites-available/wordpress.conf
+ 1302  sudo a2enmod rewrite
+ 1303  sudo apache2ctl configtest
+ 1304  sudo systemctl restart apache2
+ 1305  sudo apt install wordpress
+ 1306  cd /tmp
+ 1307  curl -O https://wordpress.org/latest.tar.gz
+ 1308  tar xzvf latest.tar.gz
+ 1309  curl -O https://wordpress.org/latest.tar.gz
+ 1310  sudo apt install curl
+ 1311  curl -O https://wordpress.org/latest.tar.gz
+ 1312  tar xzvf latest.tar.gz
+ 1313  touch /tmp/wordpress/.htaccess
+ 1314  cp /tmp/wordpress/wp-config-sample.php /tmp/
+ 1315  wordpress/wp-config.php
+ 1316  cp /tmp/wordpress/wp-config-sample.php /tmp/wordpress/wp-config.php
+ 1317  mkdir /tmp/wordpress/wp-content/upgrade
+ 1318  sudo cp -a /tmp/wordpress/. /var/www/wordpress
+ 1319  sudo chown -R www-data:www-data /var/www/wordpress
+ 1320  sudo find /var/www/wordpress/ -type d -exec chmod 750 {} \;
+ 1321  sudo find /var/www/wordpress/ -type f -exec chmod 640 {} \;
+ 1322  curl -s https://api.wordpress.org/secret-key/1.1/salt/
+ 1323  sudo nano /var/www/wordpress/wp-config.php
+ 1324  sudo service apache2 start
+ 1325  cd 
+ 1326  ls /var/www/html
+ 1327  cd /tmp
+ 1328  ls
+ 1329  cd 
+ 1330  cd /var/www/html
+ 1331  pwd
+ 1332  cd 
+ 1333  cd /tmp
+ 1334  mv wp-config-sample.php /var/www/html
+ 1335  sudo mv wp-config-sample.php /var/www/html
+ 1336  ls
+ 1337  cd 
+ 1338  cd /var/www/html
+ 1339  ls
+ 1340  cd
+ 1341  cd /tmp
+ 1342  cd
+ 1343  cd /var/www/html
+ 1344  sudo mv wp-config-sample.php /var/www/html
+ 1345  ls
+ 1346  cp wp-config-sample.php /tmp
+ 1347  cd
+ 1348  cd /tmp
+ 1349  ls
+ 1350  cd 
+ 1351  cd /var/www/html/
+ 1352  ls
+ 1353  sudo rm wp-config-sample.php
+ 1354  ls
+ 1355  cd
+ 1356  cd /tmp
+ 1357  ls
+ 1358  cp wp-config-sample.php /var/www/html/
+ 1359  sudo cp wp-config-sample.php /var/www/html/
+ 1360  ls
+ 1361  cd 
+ 1362  cd /var/www/html/
+ 1363  ls
+ 1364  cd
+ 1365  cd /tmp
+ 1366  ls
+ 1367  sudo rm wp-config-sample.php
+ 1368  ls
+ 1369  cd
+ 1370  cd /var/www/html/
+ 1371  ls
+ 1372  sudo chown -R www-data:www.data /var/www/html/wordpress
+ 1373  sudo chown -R www-data:www-data /var/www/html/wordpress
+ 1374  sudo wget https://wordpress.com/latest.zip
+ 1375  sudo wget htttps://wordpress.org/latest.zip
+ 1376  sudo wget https://wordpress.org/latest.zip
+ 1377  ls
+ 1378  cd
+ 1379  /tmp
+ 1380  cd /tmp
+ 1381  ls
+ 1382  sudo cp -r wordpress /var/www/html/
+ 1383  ls
+ 1384  cd 
+ 1385  cd /var/www/html/
+ 1386  ls
+ 1387  sudo chown -R www-data:www-data /var/www/html/wordpress
+ 1388  ls
+ 1389  sudo systemctl restart apache2
+ 1390  ls
+ 1391  sudo nano /var/www/html/wp-config-sample.php
+ 1392  cat wp-config-sample.php
+ 1393  sudo mysql
+ 1394  sudo systemctl restart mysql
+ 1395  sudo systemctl restart apache2
+ 1396  ls
+ 1397  nano wp-config-sample.php
+ 1398  sudo systemctl restart mysql
+ 1399  sudo systemctl restart apache2
+ 1400  sudo mv wp-config-sample.php wp-config.php
+ 1401  ls
+ 1402  sudo systemctl restart apache2
+ 1403  sudo systemctl restart mysql
+ 1404  nano wp-config.php
+ 1405  cat wp-config.php
+ 1406  sudo mysql -u root -p
+ 1407  mysql -u nelle -p
+ 1408  ls
+ 1409  cd wordpress
+ 1410  ls
+ 1411  sudo chown -R www-data:www-data /var/www/html/wordpress
+ 1412  sudo chmod -R 755 /var/www/html/wordpress
+ 1413  sudo systemctl restart apache2
+ 1414  sudo systemctl restart mysql
+ 1415  sudo systemctl status apache2
+ 1416  sudo systemctl status wordpress
+ 1417  sudo systemctl status mysql
+ 1418  mysql -u nelle -p
+ 1419  cd ..
+ 1420  sudo rm -rf wordpress
+ 1421  wget https://wordpress.org/latest.zip
+ 1422  sudo wget https://wordpress.org/latest.zip
+ 1423  unzip latest.zip
+ 1424  ls
+ 1425  unzip latest.zip.1
+ 1426  rm latest.zip
+ 1427  sudo rm latest.zip
+ 1428  ls
+ 1429  mv latest.zip.1 latest.zip
+ 1430  sudo mv latest.zip.1 latest.zip
+ 1431  ls
+ 1432  sudo chown -R www-data:www-data wordpress
+ 1433  ls
+ 1434  cd
+ 1435  cd /tmp
+ 1436  ls
+ 1437  sudo wget https://wordpress.org/latest.zip
+ 1438  unzip latest.zip
+ 1439  ls
+ 1440  sudo rm -r wordpress
+ 1441  ls
+ 1442  unzip latest.zip
+ 1443  sudo mv wordpress /var/www/html/
+ 1444  ls
+ 1445  cd
+ 1446  cd /var/www/html/
+ 1447  ls
+ 1448  cd wordpress
+ 1449  ls
+ 1450  sudo chown -R www-data:www-data /var/www/html/wordpress
+ 1451  sudo chmod -R 755 /var/www/html/wordpress
+ 1452  sudo systemctl restart apache2
+ 1453  sudo systemctl restart mysql
